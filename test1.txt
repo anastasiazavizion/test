@@ -4,3 +4,4 @@ Changed from main2
 Changed from main3
 My test line
 Test line2
+Test line3
